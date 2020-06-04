@@ -1,7 +1,10 @@
 #bio-image {
-    transform: rotate(90deg);
     float: left;
-    margin-bottom: 40px;
+    margin-right: 10px;
+}
+
+.page-header {
+    margin-top: 40px;
 }
 
 body {
